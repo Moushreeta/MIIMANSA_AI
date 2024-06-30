@@ -1,4 +1,4 @@
-# MIIMANSA_AI
+# MIIMANSA_AI ASSIGNMENT
 
 Abstract Classification into Predefined Domains
 
@@ -37,3 +37,8 @@ Use SMOTE (Synthetic Minority Over-sampling Technique) to handle class imbalance
 Train multiple models: Logistic Regression, Support Vector Machine (SVM), XGBoost, and LSTM.
 Evaluate models using precision, recall, F1-score, and confusion matrices.
 Perform cross-validation and plot learning curves.
+
+# Installation
+Clone the repo using:
+git clone https://github.com/Moushreeta/MIIMANSA_AI.git
+
